@@ -1,0 +1,56 @@
+html{
+    background-color: #f0f4f9; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-align: center;
+}
+
+body{
+    color: #333; 
+    margin: 0;
+}
+/* 4. Aumentar el tamaño del texto de los párrafos */    padding: 0;
+}
+}
+
+h1, h2, h3 {
+    color: #2c3e60;
+    text-align: center;
+}
+
+h4, h5, h6 {
+    color: #1c3f60;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    display: block;
+    margin: 20px auto;
+}
+
+ 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 2px solid #2c3e50;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #ecf0f1;
+}
